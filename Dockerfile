@@ -13,6 +13,7 @@ RUN apk --no-cache add \
   gmp-dev \
   lua-dev \
   mpfr-dev \
+  linux-headers \
   ninja \
   python
 
